@@ -11,6 +11,7 @@ def check_character(word, index):
        return "unknown"
    
 
+
 if __name__ == '__main__': 
     print(check_character('happy birthday', 2))
     print(check_character('happy birthday', 5))
